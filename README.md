@@ -35,5 +35,3 @@ A recommendation system developed using Java to suggest products/content based o
 
 ---
 
-## Author
-Sourabh S
